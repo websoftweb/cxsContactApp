@@ -25,8 +25,8 @@
 	}
 	// configuration (see https://developers.engagor.com/applications)
 	// set up your application so the redirect_uri runs this script
-	$client_id = '254eef8c1b60312314229ed3a1610130';
-	$client_secret = '66d23c2d3a0cd828cd56e65f9fb7dcbe';
+	$client_id = 'YOUR-CLIENT-ID';
+	$client_secret = 'YOUR-CLIENT-SECRET';
 	$scope = 'accounts_read accounts_write';
 	
 
